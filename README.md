@@ -11,7 +11,7 @@
 | Resource | Link |
 |----------|------|
 | 🎨 **Live Figma Prototype** | [View Interactive Prototype](https://www.figma.com/make/W9UaBEEPUgosjxxDgGgBnG/NoleQuest?t=imVw2fUUNgk7J3Rl-1) |
-| 📄 **PR/FAQ Document** | [Read the Press Release](./docs/NoleQuest_PRFAQ.pdf) |
+| 📄 **PR/FAQ Document** | [Read the Press Release](NoleQuest_PRFAQ.pdf) |
 
 ---
 

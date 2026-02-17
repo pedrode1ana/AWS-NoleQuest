@@ -143,38 +143,12 @@ This project was designed using Amazon's **Working Backwards** framework — sta
 
 ---
 
-## 📁 Repository Structure
-
-```
-NoleQuest/
-│
-├── 📁 docs/
-│   ├── NoleQuest_PRFAQ.pdf          # Full Press Release + FAQ document
-│   └── NoleQuest_Figma_Prompt.md    # Complete design brief used to build prototype
-│
-├── 📁 designs/
-│   ├── exports/                     # Exported PNG screens from Figma
-│   │   ├── student/                 # All student platform screens
-│   │   └── recruiter/              # All recruiter platform screens
-│   └── assets/                      # Icons, logos, brand assets
-│
-├── 📁 architecture/
-│   └── aws_architecture.png         # System architecture diagram
-│
-└── README.md                        # You are here
-```
-
----
-
 ## 🚀 How to View the Prototype
 
-**Option 1 — Figma (Recommended)**
+**Figma (Recommended)**
 1. Click the [Live Figma Prototype](#) link above
 2. Press the **▶ Play** button in the top right to enter presentation mode
 3. Click through the interactive flows
-
-**Option 2 — Static Screenshots**
-Browse the `/designs/exports/` folder for PNG exports of every screen, organized by platform (student / recruiter).
 
 ---
 
